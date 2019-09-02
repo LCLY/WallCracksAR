@@ -1,2 +1,3 @@
 # WallCracksAR
-Develop an AR application that can be utilized for wall inspection and maintenance in the AEC industry.
+
+Develop an Augmented Reality application utilizing Microsoft Holoelns that can be used for wall inspection and maintenance in the AEC industry.
