@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WallCracksAR/static/css/main.2cce8147.chunk.css",
+    "main.js": "/WallCracksAR/static/js/main.2bbd2b53.chunk.js",
+    "main.js.map": "/WallCracksAR/static/js/main.2bbd2b53.chunk.js.map",
+    "runtime~main.js": "/WallCracksAR/static/js/runtime~main.d21c084c.js",
+    "runtime~main.js.map": "/WallCracksAR/static/js/runtime~main.d21c084c.js.map",
+    "static/js/2.49c70949.chunk.js": "/WallCracksAR/static/js/2.49c70949.chunk.js",
+    "static/js/2.49c70949.chunk.js.map": "/WallCracksAR/static/js/2.49c70949.chunk.js.map",
+    "index.html": "/WallCracksAR/index.html",
+    "precache-manifest.810c2919fddb1ac87d8909a179d69f0f.js": "/WallCracksAR/precache-manifest.810c2919fddb1ac87d8909a179d69f0f.js",
+    "service-worker.js": "/WallCracksAR/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/WallCracksAR/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/WallCracksAR/static/media/logo.5d5d9eef.svg"
+  }
+}
